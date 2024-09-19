@@ -6,13 +6,13 @@ import greenfoot.*;
 /**
  * 
  */
-public class Lobster extends Actor
+public class Bear extends Actor
 {
 
     /**
      * 
      */
-    public Lobster()
+    public Bear()
     {
         turn(Greenfoot.getRandomNumber(360));
     }
